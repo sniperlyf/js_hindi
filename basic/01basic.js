@@ -11,6 +11,6 @@ accountPassword="12121"
 accountCity="jaipur"
 let accountState;//value will be undefined
 
-//consol method table that can be used to print multiple consol.log instead of writing it again n again
+//consol method table that can be used to print multiple consol.log instead of writing it again n again. okay?
  
 console.table([accountEmail,accountID,accountPassword,accountCity,accountState])
