@@ -24,5 +24,5 @@ console.log(stringNumber)
 console.log(typeof stringNumber)//returns number but now
 
 let someNumber = String(stringNumber)
-console.log(typeof someNumber)//returns string
+console.log(typeof someNumber)//returns string as answer
 
