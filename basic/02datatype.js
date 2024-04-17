@@ -16,4 +16,10 @@ let islogin =false
 //bigint
 //string=> " "
 //boolean => true or false
-//
+//null => standalone value(representation o fempty value)
+//undefined => means value has no tbeen assigned yet
+//symbol => unique
+//object
+
+console.log(typeof undefined)//unefined
+console.log(typeof null)//object
