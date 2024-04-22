@@ -61,9 +61,9 @@ console.log(Math.floor(Date.now()/1000),' -> time in sec from 1970');//to get ti
 
 console.log('-----------------------------------');
 
-let newdate = new Date()//you can specify what type and how you want the date to be seen
-newdate.toLocaleString('default',{ //use ctrl+space to see all the property of this object
-    era:"long",
-    dateStyle:"medium",
-    localeMatcher:"best fit"
-})
+// let newdate = new Date()//you can specify what type and how you want the date to be seen
+// newdate.toLocaleString('default',{ //use ctrl+space to see all the property of this object
+//     era:"long",
+//     dateStyle:"medium",
+//     localeMatcher:"best fit"
+// })
